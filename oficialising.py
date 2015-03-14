@@ -64,7 +64,7 @@ def main(T):
 #    return main(T)
 
 SIZE=150
-STEPS=int(1e5)
+STEPS=int(1e7)
 final=main(0.1)
 
 #figure(1)
